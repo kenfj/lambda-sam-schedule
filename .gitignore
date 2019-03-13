@@ -1,0 +1,11 @@
+.terraform
+*.tfstate
+*.tfstate.*
+*.tfvars
+
+.venv
+.pytest_cache
+__pycache__
+
+.aws-sam
+*.zip
